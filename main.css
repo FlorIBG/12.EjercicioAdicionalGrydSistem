@@ -1,0 +1,27 @@
+div{
+	background-color: #58ACFA;
+	border: 1px solid #FACC2E;
+	border-left: none;
+	border-right: none;
+}
+#mov1{
+     margin-left: -18%;
+}
+#mov2{
+     margin-left: 18%;
+}
+#mov3{
+     margin-left: 36%;
+}
+#mov4{
+     margin-left: 54%;
+}
+#mov5{
+     margin-left: 72%;
+}
+#mov6{
+     margin-left: 89%;
+}
+#movg{
+     margin: 11%;
+}
